@@ -1,0 +1,7 @@
+{
+  "name": "listadetarefastabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
